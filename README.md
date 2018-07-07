@@ -10,6 +10,7 @@
 
 #### 讨论帖
 - [如何看待吉林大学计算机学院初剑锋老师在监考和巡考时的夸张行为?]( https://www.zhihu.com/question/39425588)
+- [软件2015级考形策初剑锋"抓作弊"始末](http://tieba.baidu.com/p/5158100356?pid=108043827128&cid=0#108043827128)
 
 #### 文章
 - [就2018年初剑锋巡考事件致吉林大学公开信](https://mp.weixin.qq.com/s/dR9Ngvv3PNTfby5_sMig5Q)
