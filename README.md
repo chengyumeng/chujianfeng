@@ -19,4 +19,4 @@
 - [就2018年初剑锋巡考事件致吉林大学公开信](https://mp.weixin.qq.com/s/dR9Ngvv3PNTfby5_sMig5Q)
 
 #### 资源
-- 
+- [社交网络截图列表](https://github.com/chengyumeng/chujianfeng/tree/master/img)
